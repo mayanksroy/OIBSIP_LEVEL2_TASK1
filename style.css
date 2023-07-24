@@ -1,0 +1,52 @@
+body {
+    background-image: url("https://wallpapers.com/images/hd/high-resolution-wood-background-sk0k1ko8b0lxyyf4.jpg");
+    background-repeat: repeat;
+    background-size: 100%;
+}
+
+.container {
+    text-align: center;
+    font-size: 29px;
+    width: 100%;
+}
+
+table {
+    margin: 44px;
+}
+
+input {
+    border-radius: 5px;
+    font-size: 50px;
+    width: 500px;
+    height: 75px;
+    border: 2px solid #e4864ceb;
+}
+
+button {
+    border-radius: 5px;
+    font-size: 40px;
+    color: #000000;
+    background: #e4864ceb;
+    width: 100px;
+    height: 75px;
+}
+
+.calculater {
+    display: inline-block;
+    background-color: #67b7be;
+    border-radius: 10px;
+    border: 4px solid #e61c1c;
+    margin-top: 40px;
+}
+
+header {
+    background-color: rgb(99, 95, 180);
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+p {
+    font-size: 40px;
+    margin: 0%;
+}
