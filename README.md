@@ -20,6 +20,4 @@ Certainly! In this web development project, I designed and built a calculator us
 
 🔹 **Future Enhancements**: While the calculator is fully functional, I have plans to enhance its capabilities in the future. Some potential improvements may include adding scientific functions (e.g., trigonometry, exponentiation), implementing a history log to track past calculations, and extending support for more advanced mathematical operations.
 
-Overall, this calculator project showcases my proficiency in web development and demonstrates how HTML, CSS, and JavaScript can be utilized to create practical and valuable applications. I'm excited to share my work with others and encourage them to try out the calculator. It's a small but impactful step in my web development journey! 🌟🧮💡
-
-#WebDevelopment #CalculatorProject #HTML #CSS #JavaScript #WebDevelopmentProjects #WebDevelopmentJourney #CodingSkills #MathematicalOperations #CodePortfolio #TechProjects #ResponsiveDesign #UserInterface #CodeTogether
+Overall, this calculator project showcases my proficiency in web development and demonstrates how HTML, CSS, and JavaScript can be utilized to create practical and valuable applications. I'm excited to share my work with others and encourage them to try out the calculator. It's a small but impactful step in my web development journey!
